@@ -11,6 +11,7 @@ public class jytjtyj {
         System.out.println("bghfdjkghbfgd");
         System.out.println("bghfdjkghbfgd2");
         System.out.println("bghfdjkghbfgd3");
+        System.out.println("hot-fix test");
     }
 
 }
