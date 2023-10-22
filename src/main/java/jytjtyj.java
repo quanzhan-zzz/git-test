@@ -9,6 +9,7 @@ public class jytjtyj {
 
     public static void main(String[] args) {
         System.out.println("bghfdjkghbfgd");
+        System.out.println("bghfdjkghbfgd2");
     }
 
 }
